@@ -4,13 +4,13 @@
 , "version": "0.1.2"
 , "licenses": [
   { "type": "MIT"
-  , "url": "https://github.com/sstephenson/eco/raw/master/LICENSE"
+  , "url": "https://github.com/paulmillr/reactive-eco/raw/master/LICENSE"
   }]
 , "main": "./lib/index.js"
 , "bin": "./bin/eco"
 , "repository":
   { "type": "git"
-  , "url": "http://github.com/sstephenson/eco.git"
+  , "url": "https://github.com/paulmillr/reactive-eco.git"
   }
 , "dependencies":
   { "strscan": ">=1.0.1"
